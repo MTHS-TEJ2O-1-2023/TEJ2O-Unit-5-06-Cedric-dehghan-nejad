@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program measures the distance between objects
 */
 
 let distanceToObject:number = 0
